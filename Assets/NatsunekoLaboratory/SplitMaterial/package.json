@@ -6,7 +6,7 @@
     "url": "https://natsuneko.cat",
     "email": "me@natsuneko.cat"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2019.4",
   "description": "The Unity Editor Extensions that showing two materials side-by-side.",
   "license": "License Zero Parity 7.0.0 and MIT with exception License Zero Patron 1.0.0",
