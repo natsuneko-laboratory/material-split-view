@@ -8,15 +8,5 @@ Download UnityPackage from [Natsuneko Laboratory](https://natsuneko-vrc.booth.pm
 
 ## License
 
-This software is licensed under the VN3 License.  
-For more information, please visit https://docs.natsuneko.moe/en-US/licenses/booth/.
-
-Summarized:
-
-| Permissions    | Limitations      | Conditions                                                                              |
-| -------------- | ---------------- | --------------------------------------------------------------------------------------- |
-| ✓ Private use  | x Liability      | i License and Copyright notice                                                          |
-| ✓ Modification | x Warranty       | i Distribution - ONLY for free in accordance to the terms to stipulated in this license |
-|                | x Commercial use |                                                                                         |
-
-If you want to use this software for commercial use, please contact `me@natsuneko.cat`.
+- This software is licensed under the CC BY-NC-SA 4.0.
+- If you want to use commercial purpose, you can buy commercial license via [pixiv FANBOX](https://natsuneko.fanbox.cc), [GitHub Sponsors](https://github.com/sponsors/mika-f), or [BOOTH](https://natsuneko-vrc.booth.pm/items/3867507).
